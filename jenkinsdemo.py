@@ -10,6 +10,6 @@ class Student:
         print('Age: ',self.age)
         print('Grade: ',self.grade)
         print('Subjects: ', self.subjects)
-s = Student('manas',33,'B','mechanical')
+s = Student('manas ranjan',33,'B','mechanical')
 
 s.display_info()
